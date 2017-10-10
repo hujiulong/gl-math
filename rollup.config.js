@@ -6,11 +6,11 @@ export default {
 		{
 			format: 'umd',
 			moduleName: 'GLMath',
-			dest: 'build/gl-math.js'
+			dest: 'dist/gl-math.js'
 		},
 		{
 			format: 'es',
-			dest: 'build/gl-math.module.js'
+			dest: 'dist/gl-math.module.js'
 		}
 	]
 };
